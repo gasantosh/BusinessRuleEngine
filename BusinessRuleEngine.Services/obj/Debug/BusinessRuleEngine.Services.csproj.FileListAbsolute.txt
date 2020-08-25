@@ -1,0 +1,28 @@
+c:\users\santosh\documents\visual studio 2012\Projects\BusinessRuleEngine\BusinessRuleEngine.Services\bin\Debug\BusinessRuleEngine.Services.dll
+c:\users\santosh\documents\visual studio 2012\Projects\BusinessRuleEngine\BusinessRuleEngine.Services\bin\Debug\BusinessRuleEngine.Services.pdb
+c:\users\santosh\documents\visual studio 2012\Projects\BusinessRuleEngine\BusinessRuleEngine.Services\obj\Debug\BusinessRuleEngine.Services.csprojResolveAssemblyReference.cache
+c:\users\santosh\documents\visual studio 2012\Projects\BusinessRuleEngine\BusinessRuleEngine.Services\obj\Debug\BusinessRuleEngine.Services.dll
+c:\users\santosh\documents\visual studio 2012\Projects\BusinessRuleEngine\BusinessRuleEngine.Services\obj\Debug\BusinessRuleEngine.Services.pdb
+c:\users\santosh\documents\visual studio 2012\Projects\BusinessRuleEngine\BusinessRuleEngine.Services\bin\Debug\BusinessRuleEngine.Contracts.dll
+c:\users\santosh\documents\visual studio 2012\Projects\BusinessRuleEngine\BusinessRuleEngine.Services\bin\Debug\BusinessRuleEngine.Enums.dll
+c:\users\santosh\documents\visual studio 2012\Projects\BusinessRuleEngine\BusinessRuleEngine.Services\bin\Debug\BusinessRuleEngine.Contracts.pdb
+c:\users\santosh\documents\visual studio 2012\Projects\BusinessRuleEngine\BusinessRuleEngine.Services\bin\Debug\BusinessRuleEngine.Enums.pdb
+c:\users\santosh\documents\visual studio 2012\Projects\BusinessRuleEngine\BusinessRuleEngine.Services\obj\Debug\BusinessRuleEngine.Services.Resources.resources
+c:\users\santosh\documents\visual studio 2012\Projects\BusinessRuleEngine\BusinessRuleEngine.Services\obj\Debug\BusinessRuleEngine.Services.csproj.GenerateResource.Cache
+c:\users\santosh\documents\visual studio 2012\Projects\BusinessRuleEngine\BusinessRuleEngine.Services\bin\Debug\BusinessRuleEngine.Common.dll
+c:\users\santosh\documents\visual studio 2012\Projects\BusinessRuleEngine\BusinessRuleEngine.Services\bin\Debug\BusinessRuleEngine.Common.pdb
+D:\Work\BusinessRuleEngine\BusinessRuleEngine.Services\bin\Debug\BusinessRuleEngine.Services.dll
+D:\Work\BusinessRuleEngine\BusinessRuleEngine.Services\bin\Debug\BusinessRuleEngine.Services.pdb
+D:\Work\BusinessRuleEngine\BusinessRuleEngine.Services\bin\Debug\BusinessRuleEngine.Common.dll
+D:\Work\BusinessRuleEngine\BusinessRuleEngine.Services\bin\Debug\BusinessRuleEngine.Contracts.dll
+D:\Work\BusinessRuleEngine\BusinessRuleEngine.Services\bin\Debug\BusinessRuleEngine.Enums.dll
+D:\Work\BusinessRuleEngine\BusinessRuleEngine.Services\bin\Debug\BusinessRuleEngine.Common.pdb
+D:\Work\BusinessRuleEngine\BusinessRuleEngine.Services\bin\Debug\BusinessRuleEngine.Contracts.pdb
+D:\Work\BusinessRuleEngine\BusinessRuleEngine.Services\bin\Debug\BusinessRuleEngine.Enums.pdb
+D:\Work\BusinessRuleEngine\BusinessRuleEngine.Services\obj\Debug\BusinessRuleEngine.Services.csprojAssemblyReference.cache
+D:\Work\BusinessRuleEngine\BusinessRuleEngine.Services\obj\Debug\BusinessRuleEngine.Services.Resources.resources
+D:\Work\BusinessRuleEngine\BusinessRuleEngine.Services\obj\Debug\BusinessRuleEngine.Services.csproj.GenerateResource.cache
+D:\Work\BusinessRuleEngine\BusinessRuleEngine.Services\obj\Debug\BusinessRuleEngine.Services.csproj.CoreCompileInputs.cache
+D:\Work\BusinessRuleEngine\BusinessRuleEngine.Services\obj\Debug\BusinessRuleEngine.Services.csproj.CopyComplete
+D:\Work\BusinessRuleEngine\BusinessRuleEngine.Services\obj\Debug\BusinessRuleEngine.Services.dll
+D:\Work\BusinessRuleEngine\BusinessRuleEngine.Services\obj\Debug\BusinessRuleEngine.Services.pdb

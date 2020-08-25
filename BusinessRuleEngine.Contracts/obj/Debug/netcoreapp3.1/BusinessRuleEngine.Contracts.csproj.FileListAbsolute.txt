@@ -1,0 +1,12 @@
+D:\Work\BusinessRuleEngine\BusinessRuleEngine.Contracts\obj\Debug\netcoreapp3.1\BusinessRuleEngine.Contracts.csprojAssemblyReference.cache
+D:\Work\BusinessRuleEngine\BusinessRuleEngine.Contracts\obj\Debug\netcoreapp3.1\BusinessRuleEngine.Contracts.AssemblyInfoInputs.cache
+D:\Work\BusinessRuleEngine\BusinessRuleEngine.Contracts\obj\Debug\netcoreapp3.1\BusinessRuleEngine.Contracts.AssemblyInfo.cs
+D:\Work\BusinessRuleEngine\BusinessRuleEngine.Contracts\obj\Debug\netcoreapp3.1\BusinessRuleEngine.Contracts.csproj.CoreCompileInputs.cache
+D:\Work\BusinessRuleEngine\BusinessRuleEngine.Contracts\bin\Debug\netcoreapp3.1\BusinessRuleEngine.Contracts.deps.json
+D:\Work\BusinessRuleEngine\BusinessRuleEngine.Contracts\bin\Debug\netcoreapp3.1\BusinessRuleEngine.Contracts.dll
+D:\Work\BusinessRuleEngine\BusinessRuleEngine.Contracts\bin\Debug\netcoreapp3.1\BusinessRuleEngine.Contracts.pdb
+D:\Work\BusinessRuleEngine\BusinessRuleEngine.Contracts\bin\Debug\netcoreapp3.1\BusinessRuleEngine.Enums.dll
+D:\Work\BusinessRuleEngine\BusinessRuleEngine.Contracts\bin\Debug\netcoreapp3.1\BusinessRuleEngine.Enums.pdb
+D:\Work\BusinessRuleEngine\BusinessRuleEngine.Contracts\obj\Debug\netcoreapp3.1\BusinessRuleEngine.Contracts.csproj.CopyComplete
+D:\Work\BusinessRuleEngine\BusinessRuleEngine.Contracts\obj\Debug\netcoreapp3.1\BusinessRuleEngine.Contracts.dll
+D:\Work\BusinessRuleEngine\BusinessRuleEngine.Contracts\obj\Debug\netcoreapp3.1\BusinessRuleEngine.Contracts.pdb

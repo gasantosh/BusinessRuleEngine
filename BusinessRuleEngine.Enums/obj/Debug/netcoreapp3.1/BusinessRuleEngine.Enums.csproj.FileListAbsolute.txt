@@ -1,0 +1,9 @@
+D:\Work\BusinessRuleEngine\BusinessRuleEngine.Enums\bin\Debug\netcoreapp3.1\BusinessRuleEngine.Enums.deps.json
+D:\Work\BusinessRuleEngine\BusinessRuleEngine.Enums\bin\Debug\netcoreapp3.1\BusinessRuleEngine.Enums.dll
+D:\Work\BusinessRuleEngine\BusinessRuleEngine.Enums\bin\Debug\netcoreapp3.1\BusinessRuleEngine.Enums.pdb
+D:\Work\BusinessRuleEngine\BusinessRuleEngine.Enums\obj\Debug\netcoreapp3.1\BusinessRuleEngine.Enums.AssemblyInfoInputs.cache
+D:\Work\BusinessRuleEngine\BusinessRuleEngine.Enums\obj\Debug\netcoreapp3.1\BusinessRuleEngine.Enums.AssemblyInfo.cs
+D:\Work\BusinessRuleEngine\BusinessRuleEngine.Enums\obj\Debug\netcoreapp3.1\BusinessRuleEngine.Enums.csproj.CoreCompileInputs.cache
+D:\Work\BusinessRuleEngine\BusinessRuleEngine.Enums\obj\Debug\netcoreapp3.1\BusinessRuleEngine.Enums.dll
+D:\Work\BusinessRuleEngine\BusinessRuleEngine.Enums\obj\Debug\netcoreapp3.1\BusinessRuleEngine.Enums.pdb
+D:\Work\BusinessRuleEngine\BusinessRuleEngine.Enums\obj\Debug\netcoreapp3.1\BusinessRuleEngine.Enums.csprojAssemblyReference.cache

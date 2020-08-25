@@ -1,0 +1,9 @@
+D:\Work\BusinessRuleEngine\BusinessRuleEngine.DAL\obj\Debug\netcoreapp3.1\BusinessRuleEngine.DAL.csprojAssemblyReference.cache
+D:\Work\BusinessRuleEngine\BusinessRuleEngine.DAL\obj\Debug\netcoreapp3.1\BusinessRuleEngine.DAL.AssemblyInfoInputs.cache
+D:\Work\BusinessRuleEngine\BusinessRuleEngine.DAL\obj\Debug\netcoreapp3.1\BusinessRuleEngine.DAL.AssemblyInfo.cs
+D:\Work\BusinessRuleEngine\BusinessRuleEngine.DAL\obj\Debug\netcoreapp3.1\BusinessRuleEngine.DAL.csproj.CoreCompileInputs.cache
+D:\Work\BusinessRuleEngine\BusinessRuleEngine.DAL\bin\Debug\netcoreapp3.1\BusinessRuleEngine.DAL.deps.json
+D:\Work\BusinessRuleEngine\BusinessRuleEngine.DAL\bin\Debug\netcoreapp3.1\BusinessRuleEngine.DAL.dll
+D:\Work\BusinessRuleEngine\BusinessRuleEngine.DAL\bin\Debug\netcoreapp3.1\BusinessRuleEngine.DAL.pdb
+D:\Work\BusinessRuleEngine\BusinessRuleEngine.DAL\obj\Debug\netcoreapp3.1\BusinessRuleEngine.DAL.dll
+D:\Work\BusinessRuleEngine\BusinessRuleEngine.DAL\obj\Debug\netcoreapp3.1\BusinessRuleEngine.DAL.pdb
